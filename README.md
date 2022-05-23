@@ -28,9 +28,8 @@ A gravação das aulas será disponibilizada sem necessidade de requisição <br
 ## Avaliação feita pelos alunos
 1 - [Espaço](https://forms.gle/tShxhxNYhvi6ZmQm8) anônimo para vocês deixarem suas sugestões e\ou críticas a qualquer momento. <br>
 2 - Avaliação geral feita pela LC. O link é disponibilizado nas últimas aulas.
- - Autoavaliação: 
- - Avaliação dos Professores:
-
+ - Autoavaliação: https://forms.gle/vmdBSLg6F9RKgnpe9
+ - Avaliação dos Professores: https://forms.gle/ppACPKkx9LXGPf466
 
 ## Ementa
 |Data | Aula | Tema	|
