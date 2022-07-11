@@ -32,6 +32,7 @@ A gravação das aulas será disponibilizada sem necessidade de requisição <br
  - Avaliação dos Professores: https://forms.gle/ppACPKkx9LXGPf466
 
 ## Ementa
+#### ML I
 |Data | Aula | Tema	|
 |-----|-------|-------|
 |06/05/2022 | 1 | CV |
@@ -44,7 +45,21 @@ A gravação das aulas será disponibilizada sem necessidade de requisição <br
 |23/05/2022 | 8 | Avaliação por rúbrica |
 |25/05/2022 | 9 | Projeto - Apresentação dos alunos |
 
-## Projeto
+#### ML III
+|Data | Aula | Tema	|
+|-----|-------|-------|
+|11/07/2022 | 1 | Seleção de Features - parte I |
+|13/07/2022 | 2 | Seleção de Features - parte II |
+|15/07/2022 | 3 | PCA |
+|18/07/2022 | 4 | Interpretabilidade de modelos - parte I | 
+|20/07/2022 | 5 | Interpretabilidade de modelos - parte II | 
+|22/07/2022 | 6 | Otimização de hiperparâmetros avançada - parte I |
+|25/07/2022 | 7 | Otimização de hiperparâmetros avançada - parte II |
+|27/07/2022 | 8 | Case |
+|29/07/2022 | 9 | Avaliação por rúbrica e apresentação do projeto final |
+
+
+## Projeto ML I
 * Objetivo: Fazer um processo inteiro de modelagem iniciando seguindo o fluxo de EDA, tratamento dos dados, comparação de modelos e escolha do melhor modelo..
 * O grupo poderá escolher uma base entre as fornecidas pelos professores ou escolherem uma outra base de dados que possa ser compartilhada.
 * Teremos x grupos com 4 pessoas.
@@ -66,4 +81,15 @@ análises?
 8) Quais modelos escolhidos e o porquê da escolha desses modelos.
 9) Quais outras melhorias poderiam ser feitas tanto nos dados quanto em relação à modelagem?
 10) Quais métricas foram escolhidas e o porquê.
+
+## Projeto ML III
+* Objetivo: Fazer um processo inteiro de modelagem iniciando seguindo o fluxo de EDA, tratamento dos dados, comparação de modelos e escolha do melhor modelo, seleção de features, redução da dimensionalidade, interpretação do modelo e otimização de hiperparâmetros.
+* A base a ser utilizada é a de risco de crédito compartilhada no fim do módulo passado.
+* Teremos 5 grupos com 4 pessoas.
+* Grupos devem preencher o nome do participante [link](https://docs.google.com/spreadsheets/d/1lWuWHb_d0_rz2wZaPPfDIwdFG3Xn2tf5CywFBhheI38/edit?usp=sharing)
+* A apresentação poderá ser construída em um jupyter notebook ou em slides
+* Storytelling
+* Só será preciso apresentar a parte do EDA se em algum momento ela foi utilizada na tomada de decisão.
+* **Cada grupo terá no máximo 25 minutos para apresentar o projeto.**
+* No projeto será obrogatoria a utilização de pipeline
 
